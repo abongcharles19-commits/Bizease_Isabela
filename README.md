@@ -109,3 +109,4 @@ The API saves the announcement and recipient logs in MySQL first. TextBee's acce
 
 The API uses PHP sessions and requires sign-in for data routes. It is still a local development foundation: add role-specific authorization, CSRF protection, rate limits, audit logs, and SMS dispatch before public deployment. Use HTTPS and a dedicated MySQL user with limited privileges instead of the XAMPP `root` account outside local development.
 # Bizease_Isabela
+# Bizease_Isabela
